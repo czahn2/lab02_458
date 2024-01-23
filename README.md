@@ -14,11 +14,10 @@ I noticed that this web scraper only recorded about 80 instances. While this was
 I noticed that in each word cloud the search terms themselves were by far the largest words, and most other words are quite small. This leads to conclusions regarding YouTube's search algorithm - it was looking for results that include the search terms themselves, rather than a more advanced search that also involves related videos that may not include exactly the search terms in the short description.
 
 ![BLM Word Cloud](BLM.png)
-![CHOP Word Cloud](CHOP.png)
-![George Floyd Word Cloud](G_F.png)
-
 [BLM spreadsheet](videos.BLM.csv)
-[CHOP spreadsheet](videos.CHOP.csv)
-[George Floyd spreadsheet](videos.GeorgeFloyd.csv)
 
-The readme.md also needs to include a url to download the result spreadsheets (csv file) of the collected data (5 PTS).
+![CHOP Word Cloud](CHOP.png)
+[CHOP spreadsheet](videos.CHOP.csv)
+
+![George Floyd Word Cloud](G_F.png)
+[George Floyd spreadsheet](videos.GeorgeFloyd.csv)
