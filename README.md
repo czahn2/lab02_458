@@ -1,11 +1,5 @@
 # Camille Zahn
 # Lab 02, GEOG 458
-the topic as well as the parameters you have used for search (5 PTS)
-why do you want to make this comparison (5 PTS)
-compare the word clouds and discuss the difference or similarity among the word clouds (5 PTS)
-what might be the possible reasons for the patterns you observed (5 PTS)
-how your research could be improved in the future (5 PTS)
-anything you find from the map or data that is different from your expectation before the exercise, or anything that stands out to you (5 PTS)
 
 ## Topic
 I was curious to see what the youtube results would show when I searched for things relating to the Black Lives Matter Movement. I decided to set my search parameters as 'BLM', 'Capitol Hill Organized Protest', and 'George Floyd'. As it is now three years past George Floyd's murder and the subsequent CHOP zone in Seattle, I wanted to compare the common words in headlines pertaining to BLM by not only using BLM as a search term for a more general reflection of the movement, but also including specific examples of events to see how search results differ. 
@@ -18,3 +12,13 @@ I noticed that this web scraper only recorded about 80 instances. While this was
 
 ## Notable Takeaways
 I noticed that in each word cloud the search terms themselves were by far the largest words, and most other words are quite small. This leads to conclusions regarding YouTube's search algorithm - it was looking for results that include the search terms themselves, rather than a more advanced search that also involves related videos that may not include exactly the search terms in the short description.
+
+![BLM Word Cloud](BLM.png)
+![CHOP Word Cloud](CHOP.png)
+![George Floyd Word Cloud](G_F.png)
+
+[BLM spreadsheet](videos.BLM.csv)
+[CHOP spreadsheet](videos.CHOP.csv)
+[George Floyd spreadsheet](videos.GeorgeFloyd.csv)
+
+The readme.md also needs to include a url to download the result spreadsheets (csv file) of the collected data (5 PTS).
