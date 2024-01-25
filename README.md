@@ -13,11 +13,11 @@ I noticed that this web scraper only recorded about 80 instances. While this was
 ## Notable Takeaways
 I noticed that in each word cloud the search terms themselves were by far the largest words, and most other words are quite small. This leads to conclusions regarding YouTube's search algorithm - it was looking for results that include the search terms themselves, rather than a more advanced search that also involves related videos that may not include exactly the search terms in the short description.
 
-![BLM Word Cloud](BLM.png)
-[BLM spreadsheet](videos.BLM.csv)
+![BLM Word Cloud](img/BLM.png)
+[BLM spreadsheet](assets/videos.BLM.csv)
 
-![CHOP Word Cloud](CHOP.png)
-[CHOP spreadsheet](videos.CHOP.csv)
+![CHOP Word Cloud](img/CHOP.png)
+[CHOP spreadsheet](assets/videos.CHOP.csv)
 
-![George Floyd Word Cloud](G_F.png)
-[George Floyd spreadsheet](videos.GeorgeFloyd.csv)
+![George Floyd Word Cloud](img/G_F.png)
+[George Floyd spreadsheet](assets/videos.GeorgeFloyd.csv)
